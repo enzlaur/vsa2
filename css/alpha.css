@@ -226,3 +226,17 @@ body{
 #members-desc {
     font-size: 20px;
 }
+
+#members-groupinfo {
+    font-size: 18px;
+    font-family: Segoe UI;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.border-top-black {
+    border-top: 1px solid rgb(100,100,100);
+    padding-top: 20px;
+    margin-top: 20px;
+}
