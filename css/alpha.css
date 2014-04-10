@@ -196,4 +196,23 @@ body{
 #vsaminilogo {
     height: 20%;
     width:  20%;
+    margin-top: 24px;
+}
+
+#members {
+    color: rgb(67, 67, 67);
+    background: rgb(217,217,217);
+    padding-top: 70px;
+}
+
+#section-title {
+    font-size: 90px;    
+}
+
+#members-pic {
+    
+}
+
+#members-head {
+    padding-top: 70px;
 }
