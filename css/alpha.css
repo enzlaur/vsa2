@@ -5,7 +5,7 @@ body{
     font-family: Rockwell;
 }
 .nameplate {    
-    color: rgb(67,67,67);
+    color: rgb(217,217,217);
     font-family: Rockwell;
     font-size: 20px;
     padding-top: 40px;
@@ -178,5 +178,17 @@ body{
     width: 100%;
     padding-top: 50px;
     padding-bottom: 100px;
+    
+}
+
+#abovefold {
+    background: rgb(67, 67, 67);
+    color: rgb(217,217,217);
+    font-size: 20px;
+    height: 100%;
+    padding-top: 20%;
+    padding-bottom: 23%;
+    width: 100%;
+    text-align: center;
     
 }
