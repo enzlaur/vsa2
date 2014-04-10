@@ -203,6 +203,7 @@ body{
     color: rgb(67, 67, 67);
     background: rgb(217,217,217);
     padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 #section-title {
@@ -215,4 +216,13 @@ body{
 
 #members-head {
     padding-top: 70px;
+}
+
+#members-position {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+#members-desc {
+    font-size: 20px;
 }
