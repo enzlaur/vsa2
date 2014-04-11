@@ -119,7 +119,7 @@ body{
 
 #apps-title {
     font-size: 90px;
-    padding-bottom: 50px;
+    padding-bottom: 50px;    
 }
 
 #circa-screens {
@@ -127,7 +127,7 @@ body{
     width: 80%;    
 }
 
-#apps-desc {
+#apps-desc {    
     font-size: 20px;
 }
 
@@ -136,25 +136,7 @@ body{
     width: 50%;
 }
 
-#apps-mobile {
-    background: rgb(237, 109, 109);
-    color: white;
-    height: 100%;
-    padding-top: 50px;
-    padding-bottom: 100px;
-    width: 100%;
-    
-}
 
-#apps-web {
-    background: rgb(109, 168, 237);
-    color: white;
-    height: 100%;
-    padding-top: 50px;
-    padding-bottom: 100px;
-    width: 100%;
-    
-}
 
 #train-screens {
     height: 100%;
@@ -244,4 +226,80 @@ body{
 #invisiaram {    
     position: absolute;
     left: 3%;
+}
+
+#skills {
+    color: white;
+    background-color: #e6e9e9;
+    background-image: linear-gradient(270deg,rgb(88, 88, 88) 0%,rgb(37, 90, 90) 100%);
+    background-image: -o-linear-gradient(270deg,rgb(88, 88, 88) 0%,rgb(37, 90, 90) 100%);
+    background-image: -moz-linear-gradient(270deg,rgb(88, 88, 88) 0%,rgb(37, 90, 90) 100%);
+    background-image: -webkit-linear-gradient(270deg,rgb(88, 88, 88) 0%,rgb(37, 90, 90) 100%);
+    background-image: -ms-linear-gradient(270deg,rgb(88, 88, 88) 0%,rgb(37, 90, 90) 100%);
+    height: 100%;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#skills-head {
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#apps-web {
+    color: white;
+    background-color: #e6e9e9;
+    background-image: linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -o-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -moz-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -webkit-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -ms-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);    
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    width: 100%;
+    
+}
+#mobile-title {
+    font-size: 90px;
+    padding-bottom: 50px;
+    color: color;
+
+}
+
+#mobile-name {
+    color: white;
+    font-size: 80px;
+}
+
+#mobile-desc {
+    font-size: 20px;
+}
+
+#apps-mobile {
+    background-color: #e6e9e9;
+    background-image: linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -o-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -moz-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);
+    background-image: -webkit-linear-gradient(270deg,rgb(217,217,217) 0%,rgb(252, 64, 64) 100%);
+    background-image: -ms-linear-gradient(270deg,rgb(0, 157, 255) 0%,rgb(217,217,217) 100%);    
+    color: white;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    width: 100%;
+    
+}
+
+#contact {    
+    color: white;
+    background: rgb(67,67,67);
+    font-size: 16px;
+    font-family: Segoe UI;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
 }
